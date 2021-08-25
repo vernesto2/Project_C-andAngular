@@ -1,0 +1,13 @@
+theme.css
+build
+dist
+ProjectClient/node_modules
+.DS_Store
+.idea
+sassdoc
+.sass-cache
+
+ProjectClient/src/assets/theme/theme-*.css
+ProjectClient/src/assets/layout/css/*.css
+ProjectClient/src/assets/sass/theme/designer
+ProjectClient/src/assets/sass/theme/_vendor_extensions
