@@ -1,10 +1,10 @@
-theme.css
-build
-dist
+ProjectClient/theme.css
+ProjectClient/build
+ProjectClient/dist
 ProjectClient/node_modules
 .DS_Store
 .idea
-sassdoc
+ProjectClient/sassdoc
 .sass-cache
 
 ProjectClient/src/assets/theme/theme-*.css
